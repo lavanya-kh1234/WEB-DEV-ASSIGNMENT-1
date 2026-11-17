@@ -1,62 +1,42 @@
-# WEB-DEV-ASSIGNMENT-1
-web dev assignment
-# Personal Portfolio Website
 
-## Project Description
-This is a basic personal portfolio website created
-using HTML and external CSS.
+# Portfolio Website
+
+## About
+This is my personal portfolio website created as a Web Development Assignment.
+
+I am Lavanya Khandelwal, a B.Tech Computer Science Engineering student at KR Mangalam University.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
+- Flexbox
+- CSS Grid
+- Media Queries
+- CSS Animations
 
 ## Features
-- Navigation bar
+- Home section
 - About Me section
-- Technical Skills table
+- Skills section
 - Projects section
+- Education section
 - Contact form
-- Styled buttons and hover effects
-- Back to Top button
-- Responsive layout
+- Responsive design
+- Animated text
+- Fixed chatbot design
+
+## Project Files
+- index.html
+- style.css
+- photooo.jpg
+- README.md
 
 ## How to Run
 1. Download or clone this repository.
-2. Open index.html in a web browser.
-3. Make sure style.css and the images folder
-   are in the correct locations.
+2. Open the project folder.
+3. Open index.html in your browser.
 
-## Author
+## Created By
 Lavanya Khandelwal
-
-## Purpose
-This project was created as part of a college
-Web Development Lab Assignment.
-
-
-## Project Description
-
-This project is a simple personal portfolio website created as a college assignment. The website is developed using only HTML and demonstrates the basic concepts of HTML structure and web page design.
-
-## Objective
-
-The main objective of this project is to create a basic portfolio webpage that presents personal and academic information in a structured manner.
-
-## Technologies Used
-
-* HTML5
-
-## Features
-
-* Introduction/About Me section
-* Education details
-* Skills section
-* Projects section
-* Contact information
-* Simple and structured webpage layout
-
-## Author
-
-Name: Lavanya Khandelwal
-Course: B.Tech CSE 
-College: K.R. Mangalam University
+B.Tech CSE
+KR Mangalam University
